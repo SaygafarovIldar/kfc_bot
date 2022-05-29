@@ -1,0 +1,149 @@
+{
+    "category": "Курица",
+    "products": [
+        {
+            "name": "1 Ножка",
+            "description": "Ножки — самый лакомый кусочек курочки, любимый с самого детства. ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1322",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1322_1179521775.png",
+            "price": "10000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "2 Ножки",
+            "description": "Ножки — самый лакомый кусочек курочки, любимый с самого детства. ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1323",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1323_695083998.png",
+            "price": "18000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "3 Ножки",
+            "description": "Ножки — самый лакомый кусочек курочки, любимый с самого детства. ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1324",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1324_915616537.png",
+            "price": "25000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "Наггетсы 6 шт",
+            "description": "Попробуйте наггетсы от Сандерса! Это сытно и вкусно! 78 гр\n...",
+            "link": "https://www.kfc.com.uz//ru/menu/2091",
+            "image_url": "https://static.kfc.com.uz/products/small/product_2091_1971005324.png",
+            "price": "10000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "Наггетсы 8 шт",
+            "description": "Попробуйте наггетсы от Сандерса! Это сытно и вкусно!  \n...",
+            "link": "https://www.kfc.com.uz//ru/menu/2092",
+            "image_url": "https://static.kfc.com.uz/products/small/product_2092_202381515.png",
+            "price": "14000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "Наггетсы 18 шт",
+            "description": "Попробуйте наггетсы от Сандерса! Это сытно и вкусно! Наггетсов хватит ...",
+            "link": "https://www.kfc.com.uz//ru/menu/2093",
+            "image_url": "https://static.kfc.com.uz/products/small/product_2093_1675693334.png",
+            "price": "29000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "3 Крыла",
+            "description": "Огонь внутри! Далеко не ангельские крылышки*! Наши острые куриные крылышки ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1325",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1325_1385695091.png",
+            "price": "13000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "5 Крыльев",
+            "description": "Огонь внутри! Далеко не ангельские крылышки*! Наши острые куриные крылышки ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1326",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1326_1432540074.png",
+            "price": "25000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "8 Крыльев",
+            "description": "Огонь внутри! Далеко не ангельские крылышки*! Наши острые куриные крылышки ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1327",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1327_1144653230.png",
+            "price": "35000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "3 Стрипса острые",
+            "description": "Только любимый вкус – и ничего лишнего. Потрясающе нежное куриное ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1328",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1328_660529795.png",
+            "price": "15000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "3 Стрипса оригинальные",
+            "description": "Только любимый вкус – и ничего лишнего. Потрясающе нежное куриное ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1329",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1329_363852426.png",
+            "price": "15000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "5 Стрипсов острых",
+            "description": "Только любимый вкус – и ничего лишнего. Потрясающе нежное куриное ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1330",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1330_1213530277.png",
+            "price": "28000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "5 Стрипсов оригинальных",
+            "description": "Только любимый вкус – и ничего лишнего. Потрясающе нежное куриное ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1331",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1331_1669274653.png",
+            "price": "28000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "8 Стрипсов острых",
+            "description": "Только любимый вкус – и ничего лишнего. Потрясающе нежное куриное ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1332",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1332_969330816.png",
+            "price": "38000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "8 Стрипсов оригинальных",
+            "description": "Только любимый вкус – и ничего лишнего. Потрясающе нежное куриное ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1333",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1333_1629178660.png",
+            "price": "38000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "Байтсы малые",
+            "description": "Свежие сочные кусочки курицы в хрустящей панировке. Взрыв вкуса для ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1334",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1334_1812803219.png",
+            "price": "11000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "Байтсы средние",
+            "description": "Свежие сочные кусочки курицы в хрустящей панировке. Взрыв вкуса для ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1335",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1335_907494557.png",
+            "price": "17000сум",
+            "category": "Курица"
+        },
+        {
+            "name": "Байтсы большие",
+            "description": "Свежие сочные кусочки курицы в хрустящей панировке. Взрыв вкуса для ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1336",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1336_599956918.png",
+            "price": "28000сум",
+            "category": "Курица"
+        }
+    ]
+}

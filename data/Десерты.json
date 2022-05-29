@@ -1,0 +1,77 @@
+{
+    "category": "Десерты",
+    "products": [
+        {
+            "name": "Мороженое Рожок",
+            "description": "Нежное мягкое сливочное мороженое в вафельном рожке.\n\n \n...",
+            "link": "https://www.kfc.com.uz//ru/menu/1348",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1348_224388544.png",
+            "price": "4000сум",
+            "category": "Десерты"
+        },
+        {
+            "name": "Маффин Шоколад",
+            "description": "Маффин с двойным шоколадом - выбор истинного гурмана. 104 гр\n...",
+            "link": "https://www.kfc.com.uz//ru/menu/2121",
+            "image_url": "https://static.kfc.com.uz/products/small/product_2121_1307040375.png",
+            "price": "14000сум",
+            "category": "Десерты"
+        },
+        {
+            "name": "Маффин Черника",
+            "description": "Маффин с черникой, отличное дополнение для кофе. 100 гр.\n...",
+            "link": "https://www.kfc.com.uz//ru/menu/2123",
+            "image_url": "https://static.kfc.com.uz/products/small/product_2123_25941144.png",
+            "price": "14000сум",
+            "category": "Десерты"
+        },
+        {
+            "name": "Мягкое мороженое клубничное",
+            "description": "Мороженое «Летняя фантазия» клубничное.\n\n \n...",
+            "link": "https://www.kfc.com.uz//ru/menu/1349",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1349_1681675867.png",
+            "price": "9000сум",
+            "category": "Десерты"
+        },
+        {
+            "name": "Мягкое мороженое шоколадное",
+            "description": "Мороженое «Летняя фантазия» шоколадное.\n\n \n...",
+            "link": "https://www.kfc.com.uz//ru/menu/1350",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1350_1655073157.png",
+            "price": "9000сум",
+            "category": "Десерты"
+        },
+        {
+            "name": "Пирожок вишневый",
+            "description": "Пирожок с вишневой начинкой, 85 грамм\n...",
+            "link": "https://www.kfc.com.uz//ru/menu/2118",
+            "image_url": "https://static.kfc.com.uz/products/small/product_2118_1755635174.png",
+            "price": "10000сум",
+            "category": "Десерты"
+        },
+        {
+            "name": "Донат ореховый",
+            "description": "Нежнейший донат с ореховой начинкой украшен дробленным орехом. Донатов много не ...",
+            "link": "https://www.kfc.com.uz//ru/menu/2122",
+            "image_url": "https://static.kfc.com.uz/products/small/product_2122_17736390.png",
+            "price": "12000сум",
+            "category": "Десерты"
+        },
+        {
+            "name": "Донат Яблоко-корица",
+            "description": "Попробуй новинку: нежнейший пончик с яблочной начинкой и корицей!    \n...",
+            "link": "https://www.kfc.com.uz//ru/menu/1547",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1547_1385120462.png",
+            "price": "12000сум",
+            "category": "Десерты"
+        },
+        {
+            "name": "Донат карамельный",
+            "description": "Донат с карамельной глазурью и карамельной начинкой, 67 грамм\n...",
+            "link": "https://www.kfc.com.uz//ru/menu/2119",
+            "image_url": "https://static.kfc.com.uz/products/small/product_2119_1285095701.png",
+            "price": "12000сум",
+            "category": "Десерты"
+        }
+    ]
+}

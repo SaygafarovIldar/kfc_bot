@@ -1,0 +1,85 @@
+{
+    "category": "Баскеты",
+    "products": [
+        {
+            "name": "Пати баскет",
+            "description": "Попробуй супермегазаводной  «Пати Баскет» в KFC. Хрустящий аппетитный картофель, 6 ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1341",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1341_1598680100.png",
+            "price": "17000сум",
+            "category": "Баскеты"
+        },
+        {
+            "name": "Баскет 10 ножек",
+            "description": "Баскетов много не бывает. Встречайте новинку! Баскет 10 ножек, 1 ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1588",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1588_1934977157.png",
+            "price": "90000сум",
+            "category": "Баскеты"
+        },
+        {
+            "name": "Сандерс Баскет",
+            "description": "1 Ножка, 2 острых крыла, 2 стрипса, 4 острых байтса\n...",
+            "link": "https://www.kfc.com.uz//ru/menu/1790",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1790_1899039818.png",
+            "price": "30000сум",
+            "category": "Баскеты"
+        },
+        {
+            "name": "Баскет Дуэт оригинальный",
+            "description": "Всемирно известные хиты от KFC в нашем Баскете! Для вас ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1340",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1340_1112719882.png",
+            "price": "60000сум",
+            "category": "Баскеты"
+        },
+        {
+            "name": "Баскет Дуэт острый",
+            "description": "Всемирно известные хиты от KFC в нашем Баскете! Для вас ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1339",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1339_1684820854.png",
+            "price": "60000сум",
+            "category": "Баскеты"
+        },
+        {
+            "name": "Баскет S (12 острых крыльев)",
+            "description": "12 куриных крылышек в острой панировке\n...",
+            "link": "https://www.kfc.com.uz//ru/menu/1338",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1338_705673652.png",
+            "price": "50000сум",
+            "category": "Баскеты"
+        },
+        {
+            "name": "Баскет M (18 острых крыла)",
+            "description": "18 куриных крылышка в острой панировке\n...",
+            "link": "https://www.kfc.com.uz//ru/menu/1343",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1343_2130521572.png",
+            "price": "75000сум",
+            "category": "Баскеты"
+        },
+        {
+            "name": "Баскет L (26 острых крыльев)",
+            "description": "26 куриных крылышек в острой панировке\n...",
+            "link": "https://www.kfc.com.uz//ru/menu/1571",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1571_865481208.png",
+            "price": "90000сум",
+            "category": "Баскеты"
+        },
+        {
+            "name": "Микс Бокс",
+            "description": "5 оригинальных наггетсов и байтсы стандартные! Микс  бокс - выбирают ...",
+            "link": "https://www.kfc.com.uz//ru/menu/2095",
+            "image_url": "https://static.kfc.com.uz/products/small/product_2095_1094832301.png",
+            "price": "18000сум",
+            "category": "Баскеты"
+        },
+        {
+            "name": "Наггетс Бокс",
+            "description": "5 оригинальных наггетсов и хрустящий картофель фри с аппетитной хрустящей ...",
+            "link": "https://www.kfc.com.uz//ru/menu/2094",
+            "image_url": "https://static.kfc.com.uz/products/small/product_2094_1366864235.png",
+            "price": "17000сум",
+            "category": "Баскеты"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "name": "KFC C1",
+        "location": "Мирзо улугбекский район, улица Узбекистон Овози, 21. Ориентир: \"Экопарк\"",
+        "phone_number": "+998 (78) 129-70-00",
+        "working_time": "00:00 — 23:59"
+    },
+    {
+        "name": "KFC Chilanzor",
+        "location": "Чиланзорский район, ул.Бунедкор 52/2",
+        "phone_number": "+998 (78) 129-70-00",
+        "working_time": "06:00 — 04:00"
+    },
+    {
+        "name": "KFC Chimgan",
+        "location": "Мирзо Улугбекский район, ул. Темур Малик, д 3А. Ориентир : ТРЦ Атлас-Чимган",
+        "phone_number": "+998 (78) 129-70-00",
+        "working_time": "10:00 — 00:00"
+    },
+    {
+        "name": "KFC Compass",
+        "location": "пересечение улиц Фаргона йули и ТКАД",
+        "phone_number": "+998 (78) 129-70-00",
+        "working_time": "10:00 — 22:00"
+    },
+    {
+        "name": "KFC Family Park",
+        "location": "ул. Нарпайская, 76. ТРЦ \"Family Park\", фудкорд 3 этаж.",
+        "phone_number": "+998 (78) 129-70-00",
+        "working_time": "10:00 — 23:00"
+    },
+    {
+        "name": "KFC Fayz",
+        "location": "Мирзо-Улугбекский район, ул.Буюк Ипак  йули, напротив дома 105",
+        "phone_number": "+998 (78) 129-70-00",
+        "working_time": "10:00 — 00:00"
+    },
+    {
+        "name": "KFC Kefayat",
+        "location": "Юнус-Абадский район, Проспект А.Тимура, 141 (ТЦ \"Kefayat\", ориентир Юнус-Абадский рынок)",
+        "phone_number": "+998 (78) 129-70-00",
+        "working_time": "10:00 — 00:00"
+    },
+    {
+        "name": "KFC Kokand Drive",
+        "location": "ул. Абу Таиб Хуканди, 101D",
+        "phone_number": "+ (998) 781-297-002",
+        "working_time": "10:00 — 04:00"
+    },
+    {
+        "name": "KFC Magic City",
+        "location": "Чиланзарский р-н, массив Олмазор, 183а",
+        "phone_number": "+998 (78) 129-70-02",
+        "working_time": "10:00 — 23:00"
+    },
+    {
+        "name": "KFC Navruz Mall",
+        "location": "ул. Лоихавий Машраб, 60 (ТРЦ Navruz Mall)",
+        "phone_number": "",
+        "working_time": "10:00 — 23:00"
+    },
+    {
+        "name": "KFC Oazis",
+        "location": "Учтепинский район, пересечение ул. Лутфий и Фархадская, м-в Чиланзар 12 квартал, дом 21А.",
+        "phone_number": "+998 (78) 129-70-00",
+        "working_time": "10:00 — 00:00"
+    },
+    {
+        "name": "KFC Rossini",
+        "location": "Шайхонтохурский район, ул. А.Кодирий, 20",
+        "phone_number": "+998 (78) 129-70-00",
+        "working_time": "10:00 — 00:00"
+    },
+    {
+        "name": "KFC Samarkand Darvoza",
+        "location": "Шайхонтохурский район, ул. Каратош, 5 А",
+        "phone_number": "+998 (78) 129-70-00",
+        "working_time": "10:00 — 22:00"
+    },
+    {
+        "name": "KFC Westminster",
+        "location": "Яшнабадский район, ул. Истикбол, 17",
+        "phone_number": "+998 (78) 129-70-00",
+        "working_time": "06:00 — 04:00"
+    }
+]

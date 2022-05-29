@@ -1,0 +1,117 @@
+{
+    "category": "Бургеры",
+    "products": [
+        {
+            "name": "Лонгер",
+            "description": "Сочная курочка, маринованные огурчики и аппетитный соус… мммм! Спешите попробовать!\n...",
+            "link": "https://www.kfc.com.uz//ru/menu/1391",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1391_478742062.png",
+            "price": "11000сум",
+            "category": "Бургеры"
+        },
+        {
+            "name": "Твистер Джуниор",
+            "description": "Сырная лепешка, два сочных оригинальных стрипса из куриного филе в ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1592",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1592_379463322.png",
+            "price": "10000сум",
+            "category": "Бургеры"
+        },
+        {
+            "name": "Твистер острый",
+            "description": "Закручен со вкусом! Кусочки нежнейшего куриного филе в хрустящей острой ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1318",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1318_868283739.png",
+            "price": "18000сум",
+            "category": "Бургеры"
+        },
+        {
+            "name": "Твистер оригинальный",
+            "description": "Закручен со вкусом! Кусочки нежнейшего куриного филе в хрустящей острой ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1319",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1319_1978175543.png",
+            "price": "18000сум",
+            "category": "Бургеры"
+        },
+        {
+            "name": "Твистер Веджи",
+            "description": "Закручено со вкусом! Картофельная котлета Хашбраун, ломтик сыра, с сочными ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1320",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1320_504764309.png",
+            "price": "16000сум",
+            "category": "Бургеры"
+        },
+        {
+            "name": "Боксмастер",
+            "description": "Полная перезагрузка! Мощный заряд энергии в нашем БоксМастере! Сочное куриное ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1321",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1321_1818917424.png",
+            "price": "23000сум",
+            "category": "Бургеры"
+        },
+        {
+            "name": "Чизбургер",
+            "description": "Пряный горчичный соус, кетчуп, сочные стрипсы в оригинальной панировке, лук, ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1314",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1314_280821341.png",
+            "price": "15000сум",
+            "category": "Бургеры"
+        },
+        {
+            "name": "Чизбургер Де Люкс",
+            "description": "Пряный горчичный соус, кетчуп, сочное куриное филе в оригинальной панировке, ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1315",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1315_1379415024.png",
+            "price": "18000сум",
+            "category": "Бургеры"
+        },
+        {
+            "name": "Шефбургер",
+            "description": "Попробуйте новый уникальный бургер от шефа! Сочная курица, томаты, свежий ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1316",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1316_318506902.png",
+            "price": "18000сум",
+            "category": "Бургеры"
+        },
+        {
+            "name": "Острый Шефбургер",
+            "description": "Попробуйте новый уникальный бургер от шефа! Острая курочка в панировке ...",
+            "link": "https://www.kfc.com.uz//ru/menu/1317",
+            "image_url": "https://static.kfc.com.uz/products/small/product_1317_963375126.png",
+            "price": "18000сум",
+            "category": "Бургеры"
+        },
+        {
+            "name": "Шеф Тауэр",
+            "description": "Новинка от Шефа! Нежный сливочный соус Цезарь, сочное филе в ...",
+            "link": "https://www.kfc.com.uz//ru/menu/2127",
+            "image_url": "https://static.kfc.com.uz/products/small/product_2127_1578134945.png",
+            "price": "22000сум",
+            "category": "Бургеры"
+        },
+        {
+            "name": "Острый Шеф Тауэр",
+            "description": "Новинка от Шефа! Фирменный соус «Бургер», сочное филе в острой ...",
+            "link": "https://www.kfc.com.uz//ru/menu/2129",
+            "image_url": "https://static.kfc.com.uz/products/small/product_2129_641426765.png",
+            "price": "22000сум",
+            "category": "Бургеры"
+        },
+        {
+            "name": "Дабл Шефбургер",
+            "description": "Бургер от Шефа теперь Двойной! 2 сочных филе в оригинальной ...",
+            "link": "https://www.kfc.com.uz//ru/menu/2126",
+            "image_url": "https://static.kfc.com.uz/products/small/product_2126_1980065559.png",
+            "price": "27000сум",
+            "category": "Бургеры"
+        },
+        {
+            "name": "Острый Дабл Шефбургер",
+            "description": "Бургер от Шефа теперь Двойной! 2 сочных филе в острой панировке, ...",
+            "link": "https://www.kfc.com.uz//ru/menu/2128",
+            "image_url": "https://static.kfc.com.uz/products/small/product_2128_1026796723.png",
+            "price": "27000сум",
+            "category": "Бургеры"
+        }
+    ]
+}
