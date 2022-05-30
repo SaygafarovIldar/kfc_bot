@@ -9,7 +9,7 @@ MenuItems = list[dict[str, str]]
 ProductItems = list[dict[str, MenuItems]]
 
 # Константы
-BASE_URL = "https://www.kfc.com.uz/"
+BASE_URL = "https://www.kfc.com.uz"
 BASE_URL_RU = "https://www.kfc.com.uz/ru/main"
 
 
@@ -51,7 +51,7 @@ class Parser:
                 "category": menu_item.get("name"),
                 "products": [{
                     "name": product.find("h4").get_text(strip=True),
-                    "description": product.find("p").get_text(strip=True),
+                    "description": self.__get_product_description(BASE_URL + product.find("a").get("href")),
                     "link": BASE_URL + product.find("a").get("href"),
                     "image_url": product.find("img").get("src"),
                     "price": self.__get_product_price(BASE_URL + product.find("a").get("href")),
@@ -67,6 +67,11 @@ class Parser:
         """Получаем цену каждого товара."""
         soup = self.__get_soup(url)
         return soup.find("h3", class_="price").get_text(strip=True)
+
+    def __get_product_description(self, url: str) -> str:
+        """Получаем полное описание каждого товара."""
+        soup = self.__get_soup(url)
+        return soup.find(id="product_description").find("em").get_text(strip=True)
 
     def get_restaurants_info(self, url: str) -> list[dict[str, str]]:
         """Получаем информацию о ресторанах в городе."""

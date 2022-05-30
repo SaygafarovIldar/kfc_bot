@@ -40,6 +40,24 @@ class Product(db.Model):
         product = await cls.query.where(Product.name == product_name).gino.first()
         return product.to_dict()
 
+    @classmethod
+    async def set_products(cls, data):
+        """Добавляем данные в базу данных."""
+        if not await Product.query.gino.all():
+            for item in data:
+                for product in item.get("products"):
+                    cat = await Category.select("category_id").where(
+                        Category.name == product.get("category")
+                    ).gino.scalar()
+                    await Product.create(
+                        name=product.get("name"),
+                        description=product.get("description"),
+                        link=product.get("link"),
+                        image_url=product.get("image_url"),
+                        price=str(product.get("price")),
+                        category=cat
+                    )
+
 
 class Location(db.Model):
     """Модель таблицы местоположения."""
@@ -58,6 +76,21 @@ class User(db.Model):
 
     id = db.Column(db.BigInteger, primary_key=True)
     location = db.Column(db.String, default="")
+
+
+class Order(db.Model):
+    """Модель таблицы заказа."""
+    __tablename__ = "order"
+
+    order_id = db.Column(db.Integer, primary_key=True)
+    user_id = db.Column(db.BigInteger, primary_key=True)
+    product_name = db.Column(db.String)
+    quantity = db.Column(db.Integer)
+    location = db.Column(db.String)
+
+
+# class Cart(db.Model):
+#     __tablename__ = "cart"
 
 
 async def insert_categories(categories: list[str]) -> None:

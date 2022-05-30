@@ -3,40 +3,40 @@
     "products": [
         {
             "name": "5 за 25 000",
-            "description": "Лонгер, Картофель фри малый, Напиток 0,3, Соус, Байтсы 60 гр.\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1619",
+            "description": "Лонгер, Картофель фри малый, Напиток 0,3, Соус, Байтсы 60 гр.",
+            "link": "https://www.kfc.com.uz/ru/menu/1619",
             "image_url": "https://static.kfc.com.uz/products/small/product_1619_967988305.png",
             "price": "25000сум",
             "category": "Ланчбоксы"
         },
         {
             "name": "5 за 25 000",
-            "description": "Твистер Джуниор, байтсы 60 гр., фри малый, напиток 0,3 л ...",
-            "link": "https://www.kfc.com.uz//ru/menu/1729",
+            "description": "Твистер Джуниор, байтсы 60 гр., фри малый, напиток 0,3 л на выбор, соус на выбор.",
+            "link": "https://www.kfc.com.uz/ru/menu/1729",
             "image_url": "https://static.kfc.com.uz/products/small/product_1729_1964053812.png",
             "price": "25000сум",
             "category": "Ланчбоксы"
         },
         {
             "name": "5 за 30 000",
-            "description": "Чизбургер, Картофель фри малый, Напиток 0,4, Соус, 2 крыла\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1620",
+            "description": "Чизбургер, Картофель фри малый, Напиток 0,4, Соус, 2 крыла",
+            "link": "https://www.kfc.com.uz/ru/menu/1620",
             "image_url": "https://static.kfc.com.uz/products/small/product_1620_1695659770.png",
             "price": "30000сум",
             "category": "Ланчбоксы"
         },
         {
             "name": "5 за 35 000",
-            "description": "Твистер, картофель фри малый, Напиток 0,5, Соус, 2 крыла\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1621",
+            "description": "Твистер, картофель фри малый, Напиток 0,5, Соус, 2 крыла",
+            "link": "https://www.kfc.com.uz/ru/menu/1621",
             "image_url": "https://static.kfc.com.uz/products/small/product_1621_889545568.png",
             "price": "35000сум",
             "category": "Ланчбоксы"
         },
         {
             "name": "5 за 40 000",
-            "description": "Боксмастер оригинальный/острый, байтсы 60 гр., картофель фри малый, напиток 0,5 ...",
-            "link": "https://www.kfc.com.uz//ru/menu/1622",
+            "description": "Боксмастер оригинальный/острый, байтсы 60 гр., картофель фри малый, напиток 0,5 л на выбор соус на выбор,",
+            "link": "https://www.kfc.com.uz/ru/menu/1622",
             "image_url": "https://static.kfc.com.uz/products/small/product_1622_174413628.png",
             "price": "40000сум",
             "category": "Ланчбоксы"

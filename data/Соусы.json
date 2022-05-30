@@ -3,40 +3,40 @@
     "products": [
         {
             "name": "Кетчуп томатный",
-            "description": "Кетчуп томатный\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1382",
+            "description": "Кетчуп томатный",
+            "link": "https://www.kfc.com.uz/ru/menu/1382",
             "image_url": "https://static.kfc.com.uz/products/small/product_1382_1930826232.png",
             "price": "3000сум",
             "category": "Соусы"
         },
         {
             "name": "Соус Терияки",
-            "description": "Соус Терияки\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1383",
+            "description": "Соус Терияки",
+            "link": "https://www.kfc.com.uz/ru/menu/1383",
             "image_url": "https://static.kfc.com.uz/products/small/product_1383_1548385282.png",
             "price": "3000сум",
             "category": "Соусы"
         },
         {
             "name": "Соус кисло-сладкий Чили",
-            "description": "Соус кисло-сладкий Чили\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1384",
+            "description": "Соус кисло-сладкий Чили",
+            "link": "https://www.kfc.com.uz/ru/menu/1384",
             "image_url": "https://static.kfc.com.uz/products/small/product_1384_1668663892.png",
             "price": "3000сум",
             "category": "Соусы"
         },
         {
             "name": "Соус Чесночный",
-            "description": "Соус Чесночный \n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1385",
+            "description": "Соус Чесночный",
+            "link": "https://www.kfc.com.uz/ru/menu/1385",
             "image_url": "https://static.kfc.com.uz/products/small/product_1385_1737008567.png",
             "price": "3000сум",
             "category": "Соусы"
         },
         {
             "name": "Соус Сырный оригинальный",
-            "description": "Соус Сырный оригинальный\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1386",
+            "description": "Соус Сырный оригинальный",
+            "link": "https://www.kfc.com.uz/ru/menu/1386",
             "image_url": "https://static.kfc.com.uz/products/small/product_1386_1670051370.png",
             "price": "3000сум",
             "category": "Соусы"

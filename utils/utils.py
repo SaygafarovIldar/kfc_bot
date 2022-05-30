@@ -1,7 +1,7 @@
 import json
 import os
 
-from .db_api.main import User
+from db_api.main import User
 
 
 class DataManager:

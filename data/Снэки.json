@@ -3,56 +3,56 @@
     "products": [
         {
             "name": "Картофель фри малый",
-            "description": "Еще больше вкуса! В наших крупных ломтиках мы сохранили еще ...",
-            "link": "https://www.kfc.com.uz//ru/menu/1344",
+            "description": "Еще больше вкуса! В наших крупных ломтиках мы сохранили еще больше вкуса твоего любимого картофеля фри. Он получается именно таким, как ты любишь – с аппетитной хрустящей корочкой и мягкой, рассыпчатой серединкой.Любимое удовольствие!",
+            "link": "https://www.kfc.com.uz/ru/menu/1344",
             "image_url": "https://static.kfc.com.uz/products/small/product_1344_1171909349.png",
             "price": "8000сум",
             "category": "Снэки"
         },
         {
             "name": "Картофель фри стандартный",
-            "description": "Еще больше вкуса! В наших крупных ломтиках мы сохранили еще ...",
-            "link": "https://www.kfc.com.uz//ru/menu/1345",
+            "description": "Еще больше вкуса! В наших крупных ломтиках мы сохранили еще больше вкуса твоего любимого картофеля фри. Он получается именно таким, как ты любишь – с аппетитной хрустящей корочкой и мягкой, рассыпчатой серединкой.Любимое удовольствие!",
+            "link": "https://www.kfc.com.uz/ru/menu/1345",
             "image_url": "https://static.kfc.com.uz/products/small/product_1345_1972835363.png",
             "price": "11000сум",
             "category": "Снэки"
         },
         {
             "name": "Баскет фри",
-            "description": "Еще больше вкуса! В наших крупных ломтиках мы сохранили еще ...",
-            "link": "https://www.kfc.com.uz//ru/menu/1346",
+            "description": "Еще больше вкуса! В наших крупных ломтиках мы сохранили еще больше вкуса твоего любимого картофеля фри. Он получается именно таким, как ты любишь – с аппетитной хрустящей корочкой и мягкой, рассыпчатой серединкой.Любимое удовольствие!",
+            "link": "https://www.kfc.com.uz/ru/menu/1346",
             "image_url": "https://static.kfc.com.uz/products/small/product_1346_65783863.png",
             "price": "17000сум",
             "category": "Снэки"
         },
         {
             "name": "Картофель по-деревенски малый",
-            "description": "Рассыпчатый и хрустящий картофель по-деревенски – любимый вкус теперь в ...",
-            "link": "https://www.kfc.com.uz//ru/menu/1895",
+            "description": "Рассыпчатый и хрустящий картофель по-деревенски – любимый вкус теперь в KFC!",
+            "link": "https://www.kfc.com.uz/ru/menu/1895",
             "image_url": "https://static.kfc.com.uz/products/small/product_1895_1975608248.png",
             "price": "8000сум",
             "category": "Снэки"
         },
         {
             "name": "Картофель по-деревенски станд.",
-            "description": "Рассыпчатый и хрустящий картофель по-деревенски – любимый вкус теперь в ...",
-            "link": "https://www.kfc.com.uz//ru/menu/1896",
+            "description": "Рассыпчатый и хрустящий картофель по-деревенски – любимый вкус теперь в KFC!",
+            "link": "https://www.kfc.com.uz/ru/menu/1896",
             "image_url": "https://static.kfc.com.uz/products/small/product_1896_1039246512.png",
             "price": "12000сум",
             "category": "Снэки"
         },
         {
             "name": "Хашбраун",
-            "description": "...",
-            "link": "https://www.kfc.com.uz//ru/menu/1389",
+            "description": "",
+            "link": "https://www.kfc.com.uz/ru/menu/1389",
             "image_url": "https://static.kfc.com.uz/products/small/product_1389_1150607777.png",
             "price": "4000сум",
             "category": "Снэки"
         },
         {
             "name": "Булочка",
-            "description": "...",
-            "link": "https://www.kfc.com.uz//ru/menu/1390",
+            "description": "",
+            "link": "https://www.kfc.com.uz/ru/menu/1390",
             "image_url": "https://static.kfc.com.uz/products/small/product_1390_1918620021.png",
             "price": "3000сум",
             "category": "Снэки"

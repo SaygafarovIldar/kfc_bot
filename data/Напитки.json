@@ -3,208 +3,208 @@
     "products": [
         {
             "name": "Сок вишневый 0,2л",
-            "description": "Сок вишневый 0,2л \n...",
-            "link": "https://www.kfc.com.uz//ru/menu/2131",
+            "description": "Сок вишневый 0,2л",
+            "link": "https://www.kfc.com.uz/ru/menu/2131",
             "image_url": "https://static.kfc.com.uz/products/small/product_2131_2000189402.png",
             "price": "3000сум",
             "category": "Напитки"
         },
         {
             "name": "Сок персиковый 0,2л",
-            "description": "Сок персиковый 0,2л \n...",
-            "link": "https://www.kfc.com.uz//ru/menu/2130",
+            "description": "Сок персиковый 0,2л",
+            "link": "https://www.kfc.com.uz/ru/menu/2130",
             "image_url": "https://static.kfc.com.uz/products/small/product_2130_1085847334.png",
             "price": "3000сум",
             "category": "Напитки"
         },
         {
             "name": "Сок яблочный 0,2л",
-            "description": "Сок яблочный 0,2л \n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1387",
+            "description": "Сок яблочный 0,2л",
+            "link": "https://www.kfc.com.uz/ru/menu/1387",
             "image_url": "https://static.kfc.com.uz/products/small/product_1387_861085564.png",
             "price": "3000сум",
             "category": "Напитки"
         },
         {
             "name": "Сок апельсиновый 0,2л",
-            "description": "Сок апельсиновый 0,2л \n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1388",
+            "description": "Сок апельсиновый 0,2л",
+            "link": "https://www.kfc.com.uz/ru/menu/1388",
             "image_url": "https://static.kfc.com.uz/products/small/product_1388_503559088.png",
             "price": "3000сум",
             "category": "Напитки"
         },
         {
             "name": "Прохладительные напитки 0,3 л",
-            "description": "Coca-cola, Sprite, Fanta.\n\n \n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1366",
+            "description": "Coca-cola, Sprite, Fanta.",
+            "link": "https://www.kfc.com.uz/ru/menu/1366",
             "image_url": "https://static.kfc.com.uz/products/small/product_1366_1573250845.png",
             "price": "5000сум",
             "category": "Напитки"
         },
         {
             "name": "Прохладительные напитки 0,4л",
-            "description": "Coca-cola, Sprite, Fanta.\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1365",
+            "description": "Coca-cola, Sprite, Fanta.",
+            "link": "https://www.kfc.com.uz/ru/menu/1365",
             "image_url": "https://static.kfc.com.uz/products/small/product_1365_1811201707.png",
             "price": "6000сум",
             "category": "Напитки"
         },
         {
             "name": "Прохладительные напитки 0,5л",
-            "description": "Coca-cola, Sprite, Fanta.\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1364",
+            "description": "Coca-cola, Sprite, Fanta.",
+            "link": "https://www.kfc.com.uz/ru/menu/1364",
             "image_url": "https://static.kfc.com.uz/products/small/product_1364_1225570222.png",
             "price": "7000сум",
             "category": "Напитки"
         },
         {
             "name": "Милкшейк Ваниль 0,25л",
-            "description": "Выбери коктейль со вкусом Нежной Ванили, такой простой и в ...",
-            "link": "https://www.kfc.com.uz//ru/menu/1368",
+            "description": "Выбери коктейль со вкусом Нежной Ванили, такой простой и в то же время изысканный. Молочный коктейль — такой восхитительно нежный, что хочется пить, не отрываясь!",
+            "link": "https://www.kfc.com.uz/ru/menu/1368",
             "image_url": "https://static.kfc.com.uz/products/small/product_1368_273778453.png",
             "price": "10000сум",
             "category": "Напитки"
         },
         {
             "name": "Милкшейк Ваниль 0,4л",
-            "description": "Выбери коктейль со вкусом Нежной Ванили, такой простой и в ...",
-            "link": "https://www.kfc.com.uz//ru/menu/1369",
+            "description": "Выбери коктейль со вкусом Нежной Ванили, такой простой и в то же время изысканный. Молочный коктейль — такой восхитительно нежный, что хочется пить, не отрываясь!",
+            "link": "https://www.kfc.com.uz/ru/menu/1369",
             "image_url": "https://static.kfc.com.uz/products/small/product_1369_1506984926.png",
             "price": "14000сум",
             "category": "Напитки"
         },
         {
             "name": "BonAqua вода не газированная 0,5л",
-            "description": "BonAqua вода питьевая не газированная 0,5л\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1393",
+            "description": "BonAqua вода питьевая не газированная 0,5л",
+            "link": "https://www.kfc.com.uz/ru/menu/1393",
             "image_url": "https://static.kfc.com.uz/products/small/product_1393_1977530661.png",
             "price": "3000сум",
             "category": "Напитки"
         },
         {
             "name": "Вода BonAqua газированная 0,5л",
-            "description": "Вода питьевая BonAqua газированная 0,5л\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1392",
+            "description": "Вода питьевая BonAqua газированная 0,5л",
+            "link": "https://www.kfc.com.uz/ru/menu/1392",
             "image_url": "https://static.kfc.com.uz/products/small/product_1392_349929505.png",
             "price": "3000сум",
             "category": "Напитки"
         },
         {
             "name": "Coca-cola 0,5л",
-            "description": "Coca-cola в бутылке 0,5л\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1367",
+            "description": "Coca-cola в бутылке 0,5л",
+            "link": "https://www.kfc.com.uz/ru/menu/1367",
             "image_url": "https://static.kfc.com.uz/products/small/product_1367_1415415198.png",
             "price": "7000сум",
             "category": "Напитки"
         },
         {
             "name": "Fuse Tea Чёрный 0,45л",
-            "description": "Fuse Tea Чёрный 0,45л\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1361",
+            "description": "Fuse Tea Чёрный 0,45л",
+            "link": "https://www.kfc.com.uz/ru/menu/1361",
             "image_url": "https://static.kfc.com.uz/products/small/product_1361_866721351.png",
             "price": "4000сум",
             "category": "Напитки"
         },
         {
             "name": "Чай 0,3л",
-            "description": "Черный и зеленый чай 0,3л\n\n \n\n \n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1374",
+            "description": "Черный и зеленый чай 0,3л",
+            "link": "https://www.kfc.com.uz/ru/menu/1374",
             "image_url": "https://static.kfc.com.uz/products/small/product_1374_1871108852.png",
             "price": "4000сум",
             "category": "Напитки"
         },
         {
             "name": "Чай 0,4 л",
-            "description": "Черный и зеленый чай 0,4л\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1695",
+            "description": "Черный и зеленый чай 0,4л",
+            "link": "https://www.kfc.com.uz/ru/menu/1695",
             "image_url": "https://static.kfc.com.uz/products/small/product_1695_307896001.png",
             "price": "5000сум",
             "category": "Напитки"
         },
         {
             "name": "Айс кофе 0,3 л",
-            "description": "Новый освежающий напиток от Шефа - холодный кофе с нежной ...",
-            "link": "https://www.kfc.com.uz//ru/menu/2125",
+            "description": "Новый освежающий напиток от Шефа - холодный кофе с нежной молочной пенкой",
+            "link": "https://www.kfc.com.uz/ru/menu/2125",
             "image_url": "https://static.kfc.com.uz/products/small/product_2125_1602453457.png",
             "price": "14000сум",
             "category": "Напитки"
         },
         {
             "name": "Кофе Гляссе",
-            "description": "Кофе гляссе – это американо с нежным сливочным мороженым.\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/2124",
+            "description": "Кофе гляссе – это американо с нежным сливочным мороженым.",
+            "link": "https://www.kfc.com.uz/ru/menu/2124",
             "image_url": "https://static.kfc.com.uz/products/small/product_2124_345502209.png",
             "price": "13000сум",
             "category": "Напитки"
         },
         {
             "name": "Кофе Двойной Эспрессо 0,1",
-            "description": "Кофе Двойной Эспрессо 0,1 зерновой \n\n \n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1375",
+            "description": "Кофе Двойной Эспрессо 0,1 зерновой",
+            "link": "https://www.kfc.com.uz/ru/menu/1375",
             "image_url": "https://static.kfc.com.uz/products/small/product_1375_697116782.png",
             "price": "10000сум",
             "category": "Напитки"
         },
         {
             "name": "Кофе Американо 0,2",
-            "description": "зерновой\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1376",
+            "description": "зерновой",
+            "link": "https://www.kfc.com.uz/ru/menu/1376",
             "image_url": "https://static.kfc.com.uz/products/small/product_1376_1831423218.png",
             "price": "10000сум",
             "category": "Напитки"
         },
         {
             "name": "Кофе Американо 0,3",
-            "description": "Кофе Американо 0,3 зерновой\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1377",
+            "description": "Кофе Американо 0,3 зерновой",
+            "link": "https://www.kfc.com.uz/ru/menu/1377",
             "image_url": "https://static.kfc.com.uz/products/small/product_1377_11137486.png",
             "price": "12000сум",
             "category": "Напитки"
         },
         {
             "name": "Кофе Капучино 0,2",
-            "description": "Кофе Капучино 0,2\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1727",
+            "description": "Кофе Капучино 0,2",
+            "link": "https://www.kfc.com.uz/ru/menu/1727",
             "image_url": "https://static.kfc.com.uz/products/small/product_1727_629999934.png",
             "price": "11000сум",
             "category": "Напитки"
         },
         {
             "name": "Кофе Капучино 0,3",
-            "description": "Кофе Капучино 0,3 зерновой\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1378",
+            "description": "Кофе Капучино 0,3 зерновой",
+            "link": "https://www.kfc.com.uz/ru/menu/1378",
             "image_url": "https://static.kfc.com.uz/products/small/product_1378_1651907573.png",
             "price": "13000сум",
             "category": "Напитки"
         },
         {
             "name": "Кофе Капучино 0,4",
-            "description": "Кофе Капучино 0,4 зерновой\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1379",
+            "description": "Кофе Капучино 0,4 зерновой",
+            "link": "https://www.kfc.com.uz/ru/menu/1379",
             "image_url": "https://static.kfc.com.uz/products/small/product_1379_1827857453.png",
             "price": "15000сум",
             "category": "Напитки"
         },
         {
             "name": "Кофе Латте 0,2",
-            "description": "Кофе Латте 0,2\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1728",
+            "description": "Кофе Латте 0,2",
+            "link": "https://www.kfc.com.uz/ru/menu/1728",
             "image_url": "https://static.kfc.com.uz/products/small/product_1728_1510660395.png",
             "price": "11000сум",
             "category": "Напитки"
         },
         {
             "name": "Кофе Латте 0,3",
-            "description": "Кофе Латте 0,3 зерновой\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1380",
+            "description": "Кофе Латте 0,3 зерновой",
+            "link": "https://www.kfc.com.uz/ru/menu/1380",
             "image_url": "https://static.kfc.com.uz/products/small/product_1380_160457825.png",
             "price": "13000сум",
             "category": "Напитки"
         },
         {
             "name": "Кофе Латте 0,4",
-            "description": "Кофе Латте 0,4 зерновой\n...",
-            "link": "https://www.kfc.com.uz//ru/menu/1381",
+            "description": "Кофе Латте 0,4 зерновой",
+            "link": "https://www.kfc.com.uz/ru/menu/1381",
             "image_url": "https://static.kfc.com.uz/products/small/product_1381_1998516492.png",
             "price": "15000сум",
             "category": "Напитки"
