@@ -35,8 +35,7 @@ async def process_meal(message: types.Message, state: FSMContext) -> None:
 @dp.message_handler(state=OrderState.meal)
 async def show_meal(message: types.Message, state: FSMContext) -> None:
     """Показываем пользователю то блюдо, которое он выбрал."""
-    await OrderState.next()
-    if message.text != "Назад⬅":
+    if message.text != "Назад ⬅":
         product_info = await Product.get_product(message.text)
         await bot.send_photo(
             chat_id=message.from_user.id,
@@ -46,27 +45,10 @@ async def show_meal(message: types.Message, state: FSMContext) -> None:
 <b>Описание</b>: <i>{product_info.get("description")}</i>
 <b>Цена</b>: <i>{product_info.get("price")}</i>
 """,
-            parse_mode=ParseMode.HTML,
-            reply_markup=keyboards.to_cart_keyboard()
+            parse_mode=ParseMode.HTML
         )
-        await state.set_state(OrderState.meal)
     else:
-        await state.set_state(OrderState.category)
+        await OrderState.previous()
         categories = await Category.get_categories()
         await bot.send_message(message.from_user.id, "Выберите категорию",
                                reply_markup=keyboards.categories_keyboard(categories))
-
-# @dp.callback_query_handler(lambda call: call.data == "to_cart", state=MakingOrderState.confirmation)
-# async def make_order(query: types.CallbackQuery, state: FSMContext):
-#     """Создание заказа."""
-#     await MakingOrderState.next()
-#     await query.message.answer(text="Ваш заказ", reply_markup=keyboards.making_order_keyboard())
-#
-#
-# @dp.message_handler(state=MakingOrderState.confirm)
-# async def confirm(message: types.Message, state: FSMContext):
-#     if message.text == "Назад⬅":
-#         await state.set_state(OrderState.meal)
-#         categories = await Category.get_categories()
-#         await bot.send_message(message.chat.id, "Выберите блюдо",
-#                                reply_markup=keyboards.categories_keyboard(categories))

@@ -75,6 +75,7 @@ class User(db.Model):
     __tablename__ = "users"
 
     id = db.Column(db.BigInteger, primary_key=True)
+    phone_number = db.Column(db.BigInteger, primary_key=True, default=0)
     location = db.Column(db.String, default="")
 
 
@@ -87,10 +88,6 @@ class Order(db.Model):
     product_name = db.Column(db.String)
     quantity = db.Column(db.Integer)
     location = db.Column(db.String)
-
-
-# class Cart(db.Model):
-#     __tablename__ = "cart"
 
 
 async def insert_categories(categories: list[str]) -> None:
@@ -129,3 +126,18 @@ async def insert_locations(data: list[dict[str, str]]) -> None:
                 working_time=str(item.get("working_time"))
             )
             count += 1
+
+
+async def check_user_exists(user_id: int) -> bool:
+    """Проверяем есть ли пользователь в базе данных"""
+    return await User.get(user_id)
+
+
+async def add_user(user_id: int, name: str, phone_number: int, location: str) -> None:
+    """Добавляем пользователя в базу данных."""
+    if not await check_user_exists(user_id):
+        await User.create(
+            id=user_id,
+            phone_number=phone_number,
+            location=location
+        )

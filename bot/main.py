@@ -21,7 +21,6 @@ def data_from_file(dir_path: str):
 async def on_startup(dispatcher: Dispatcher):
     await db.set_bind(DB_URL)
     await db.gino.create_all()
-    # await Product.set_products(data_from_file("../data"))
 
 
 if __name__ == "__main__":
