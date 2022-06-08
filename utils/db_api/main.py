@@ -68,6 +68,8 @@ class Location(db.Model):
     location = db.Column(db.String)
     phone_number = db.Column(db.String)
     working_time = db.Column(db.VARCHAR(25))
+    latitude = db.Column(db.Float, default=0)
+    longitude = db.Column(db.Float, default=0)
 
 
 class User(db.Model):
@@ -97,22 +99,6 @@ async def insert_categories(categories: list[str]) -> None:
             await Category.create(name=category)
 
 
-async def insert_products(data) -> None:
-    """Добавляем продукты в базу данных."""
-    if not await Product.query.gino.all():
-        for item in data:
-            for product in item.get("products"):
-                cat = await Category.select("category_id").where(Category.name == product.get("category")).gino.scalar()
-                await Product.create(
-                    name=product.get("name"),
-                    description=product.get("description"),
-                    link=product.get("link"),
-                    image_url=product.get("image_url"),
-                    price=str(product.get("price")),
-                    category=cat
-                )
-
-
 async def insert_locations(data: list[dict[str, str]]) -> None:
     """Добавляем локации в базу данных."""
     count = 1
@@ -133,7 +119,7 @@ async def check_user_exists(user_id: int) -> bool:
     return await User.get(user_id)
 
 
-async def add_user(user_id: int, name: str, phone_number: int, location: str) -> None:
+async def add_user(user_id: int, phone_number: int, location: str) -> None:
     """Добавляем пользователя в базу данных."""
     if not await check_user_exists(user_id):
         await User.create(

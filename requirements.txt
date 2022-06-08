@@ -12,3 +12,4 @@ aiogram~=2.20
 gino~=1.0.1
 SQLAlchemy~=1.3.24
 geopy~=2.2.0
+selenium~=4.2.0
