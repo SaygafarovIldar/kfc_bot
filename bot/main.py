@@ -24,10 +24,6 @@ async def on_startup(dispatcher: Dispatcher):
     await db.set_bind(DB_URL)
     await db.gino.create_all()
 
-    await Location.get_locations()
-
-    # await insert_locations(data_from_file("../data", is_location=True))
-
 
 if __name__ == "__main__":
     from aiogram import executor
