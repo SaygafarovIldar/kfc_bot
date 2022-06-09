@@ -1,4 +1,3 @@
-from geopy.distance import geodesic as gd
 import json
 import re
 import time
@@ -91,38 +90,3 @@ class AddressManager:
     @staticmethod
     def address_to_coordinates(data: list[dict[str, str]]) -> list[str]:
         return [item.get("location") for item in data]
-
-
-manager = AddressManager()
-driver_ = setup_driver()
-
-
-def save_coordinates_to_json():
-
-
-
-for loc_item in manager.address_to_coordinates(get_locations("../data")):
-    data = find_locations(GEOCODER_URL, driver_, loc_item)
-    with open("../data/location/coordinates.json", "w", encoding="utf-8") as file:
-        json.dump(data, file, indent=4, ensure_ascii=False)
-
-# """
-# (41.347055, 69.358246)
-# (41.267165, 69.314071)
-# (39.663313, 66.918607)
-# (41.342224, 69.360758)
-# (41.363257, 69.287698)
-# (41.256644, 69.195664)
-# (40.752476, 72.3638)
-# (41.2847, 69.184134)
-# (41.324656, 69.260177)
-# (41.32754, 69.210273)
-# (41.308012, 69.283487)
-# """
-
-# a = (41.347055, 69.358246)
-# b = (41.267165, 69.314071)
-# print(f"distance between a and b: {round(gd(a, b).km)}")
-
-
-
